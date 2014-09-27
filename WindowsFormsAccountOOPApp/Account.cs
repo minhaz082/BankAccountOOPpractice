@@ -8,19 +8,68 @@ namespace WindowsFormsAccountOOPApp
 {
     class Account
     {
-        public string accountNumber;
-        public string customerName;
-        public double balance;
-        public double amount;
+        private string number;
+        private string name;
+        private double balance;
+        //public double amount;
 
-        public double withdrawMoney(double amount)
+        public string Number
         {
-              balance -= amount;
+            set
+            {
+                this.number = value;
+                
+            }
+            get
+            {
+                return this.number;
+            }
+
         }
 
-        public double depositMoney(double amount)
+        public string Name
         {
-            balance = +amount;
+            set { this.name = value; }
+            get { return this.name; }
+        }
+
+        public string Balance
+        {
+            get { return this.name; }
+        }
+
+
+
+
+
+
+
+
+
+
+
+        //public double Setbalance(double balance)
+        //{
+        //    return balance;
+        //}
+
+        //public string SetNumber(string number)
+        //{
+        //    return number;
+        //}
+        //public string SetName(string name)
+        //{
+        //    return name;
+        //}
+
+        public double Withdraw(double amount)
+        {
+              return balance -= amount;
+        }
+
+        public double Deposit(double amount)
+        {
+            return balance = +amount;
         }
     }
 }

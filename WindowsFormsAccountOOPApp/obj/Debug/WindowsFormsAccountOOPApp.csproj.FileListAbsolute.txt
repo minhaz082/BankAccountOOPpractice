@@ -1,1 +1,10 @@
 J:\newOOP\WindowsFormsAccountOOPApp\WindowsFormsAccountOOPApp\bin\Debug\WindowsFormsAccountOOPApp.exe.config
+G:\Minhaz GitHub\AccountOOPpractice\WindowsFormsAccountOOPApp\bin\Debug\WindowsFormsAccountOOPApp.exe.config
+G:\Minhaz GitHub\AccountOOPpractice\WindowsFormsAccountOOPApp\bin\Debug\WindowsFormsAccountOOPApp.exe
+G:\Minhaz GitHub\AccountOOPpractice\WindowsFormsAccountOOPApp\bin\Debug\WindowsFormsAccountOOPApp.pdb
+G:\Minhaz GitHub\AccountOOPpractice\WindowsFormsAccountOOPApp\obj\Debug\WindowsFormsAccountOOPApp.csprojResolveAssemblyReference.cache
+G:\Minhaz GitHub\AccountOOPpractice\WindowsFormsAccountOOPApp\obj\Debug\WindowsFormsAccountOOPApp.Form1.resources
+G:\Minhaz GitHub\AccountOOPpractice\WindowsFormsAccountOOPApp\obj\Debug\WindowsFormsAccountOOPApp.Properties.Resources.resources
+G:\Minhaz GitHub\AccountOOPpractice\WindowsFormsAccountOOPApp\obj\Debug\WindowsFormsAccountOOPApp.csproj.GenerateResource.Cache
+G:\Minhaz GitHub\AccountOOPpractice\WindowsFormsAccountOOPApp\obj\Debug\WindowsFormsAccountOOPApp.exe
+G:\Minhaz GitHub\AccountOOPpractice\WindowsFormsAccountOOPApp\obj\Debug\WindowsFormsAccountOOPApp.pdb
